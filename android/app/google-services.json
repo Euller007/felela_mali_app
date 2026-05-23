@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885483061123",
+    "project_id": "felelamali",
+    "storage_bucket": "felelamali.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885483061123:android:b3c11078f3ce28980980b6",
+        "android_client_info": {
+          "package_name": "com.example.fefela_mali_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJso65MUUXAR1Aw4nHFZCAMpiAbm7RYO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
